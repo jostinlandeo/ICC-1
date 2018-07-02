@@ -1,5 +1,6 @@
 # ICC-1 
 #se recreará el sorteo de los paises para el mundial y sus respectivos puntajes de acuerdo a una tabla de probabilidades
+#El código necesita de la tabla de probalidades a modo de matriz, y se realizó el mismo trabajo para la entrega en el laboratorio de ICC
 import random
 
 #Lista de paises en orden alfabetico
